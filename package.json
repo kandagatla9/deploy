@@ -20,7 +20,7 @@
     "@angular/router": "~12.0.5",
     "angular-responsive-carousel": "^2.1.2",
     "bootstrap": "^5.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.1", 
     "material": "^0.4.3",
     "node": "^16.6.1",
     "node.js": "0.0.1-security",
